@@ -1,2 +1,7 @@
-﻿  main.cpp
-  Bank_Account.vcxproj -> C:\Users\Fatme Ali-2\Desktop\Bank_Account\x64\Debug\Bank_Account.exe
+﻿  Account.cpp
+  main.cpp
+  CheckingAccount.cpp
+  SavingsAccount.cpp
+  Generating Code...
+  LINK : C:\Users\fatos\OneDrive\Работен плот\codes\Bank_Account\x64\Debug\Bank_Account.exe not found or not built by the last incremental link; performing full link
+  Bank_Account.vcxproj -> C:\Users\fatos\OneDrive\Работен плот\codes\Bank_Account\x64\Debug\Bank_Account.exe
